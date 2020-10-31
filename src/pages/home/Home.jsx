@@ -42,7 +42,7 @@ function Home() {
         <section className={styles.infoSection}>
           <img src='/assets/img/fist.jpg' className={styles.fistImage} alt='' />
           <h3>
-            Ways you can support the <br /> #EndSARS movement
+            Ways you can support the <br />#EndSARS movement
           </h3>
 
           <div className={styles.boxesContainer}>
